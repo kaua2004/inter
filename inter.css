@@ -1,0 +1,27 @@
+body{
+    background-image: repeating-linear-gradient( to left,red,rgb(226, 217, 217));
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 12pt;
+margin: 20px;
+}
+h1{
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(133, 117, 114);
+}
+h2{
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(133, 117, 114);
+}
+h3{
+    text-shadow: 5px 5px 5px red;
+}
+.um{
+    border: 5px solid white;
+    width:500px;
+height:250px;
+}
+.dois{
+    border:5px solid white;
+    width: 500px;
+    heigth: 250px;
+}
